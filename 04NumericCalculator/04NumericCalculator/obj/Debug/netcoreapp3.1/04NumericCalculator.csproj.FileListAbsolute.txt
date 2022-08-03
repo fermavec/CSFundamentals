@@ -1,0 +1,12 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\04NumericCalculator\04NumericCalculator\bin\Debug\netcoreapp3.1\04NumericCalculator.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\04NumericCalculator\04NumericCalculator\bin\Debug\netcoreapp3.1\04NumericCalculator.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\04NumericCalculator\04NumericCalculator\bin\Debug\netcoreapp3.1\04NumericCalculator.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\04NumericCalculator\04NumericCalculator\bin\Debug\netcoreapp3.1\04NumericCalculator.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\04NumericCalculator\04NumericCalculator\bin\Debug\netcoreapp3.1\04NumericCalculator.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\04NumericCalculator\04NumericCalculator\bin\Debug\netcoreapp3.1\04NumericCalculator.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\04NumericCalculator\04NumericCalculator\obj\Debug\netcoreapp3.1\04NumericCalculator.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\04NumericCalculator\04NumericCalculator\obj\Debug\netcoreapp3.1\04NumericCalculator.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\04NumericCalculator\04NumericCalculator\obj\Debug\netcoreapp3.1\04NumericCalculator.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\04NumericCalculator\04NumericCalculator\obj\Debug\netcoreapp3.1\04NumericCalculator.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\04NumericCalculator\04NumericCalculator\obj\Debug\netcoreapp3.1\04NumericCalculator.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\04NumericCalculator\04NumericCalculator\obj\Debug\netcoreapp3.1\04NumericCalculator.genruntimeconfig.cache

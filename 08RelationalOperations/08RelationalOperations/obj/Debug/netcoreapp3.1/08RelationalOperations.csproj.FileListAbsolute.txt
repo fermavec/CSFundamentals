@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\08RelationalOperations\08RelationalOperations\obj\Debug\netcoreapp3.1\08RelationalOperations.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\08RelationalOperations\08RelationalOperations\obj\Debug\netcoreapp3.1\08RelationalOperations.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\08RelationalOperations\08RelationalOperations\obj\Debug\netcoreapp3.1\08RelationalOperations.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\08RelationalOperations\08RelationalOperations\obj\Debug\netcoreapp3.1\08RelationalOperations.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\08RelationalOperations\08RelationalOperations\bin\Debug\netcoreapp3.1\08RelationalOperations.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\08RelationalOperations\08RelationalOperations\bin\Debug\netcoreapp3.1\08RelationalOperations.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\08RelationalOperations\08RelationalOperations\bin\Debug\netcoreapp3.1\08RelationalOperations.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\08RelationalOperations\08RelationalOperations\bin\Debug\netcoreapp3.1\08RelationalOperations.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\08RelationalOperations\08RelationalOperations\bin\Debug\netcoreapp3.1\08RelationalOperations.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\08RelationalOperations\08RelationalOperations\bin\Debug\netcoreapp3.1\08RelationalOperations.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\08RelationalOperations\08RelationalOperations\obj\Debug\netcoreapp3.1\08RelationalOperations.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\08RelationalOperations\08RelationalOperations\obj\Debug\netcoreapp3.1\08RelationalOperations.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\08RelationalOperations\08RelationalOperations\obj\Debug\netcoreapp3.1\08RelationalOperations.genruntimeconfig.cache

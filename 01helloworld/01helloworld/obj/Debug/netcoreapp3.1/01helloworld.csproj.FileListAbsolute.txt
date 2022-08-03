@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\01helloworld\01helloworld\bin\Debug\netcoreapp3.1\01helloworld.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\01helloworld\01helloworld\bin\Debug\netcoreapp3.1\01helloworld.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\01helloworld\01helloworld\bin\Debug\netcoreapp3.1\01helloworld.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\01helloworld\01helloworld\bin\Debug\netcoreapp3.1\01helloworld.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\01helloworld\01helloworld\bin\Debug\netcoreapp3.1\01helloworld.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\01helloworld\01helloworld\bin\Debug\netcoreapp3.1\01helloworld.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\01helloworld\01helloworld\obj\Debug\netcoreapp3.1\01helloworld.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\01helloworld\01helloworld\obj\Debug\netcoreapp3.1\01helloworld.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\01helloworld\01helloworld\obj\Debug\netcoreapp3.1\01helloworld.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\01helloworld\01helloworld\obj\Debug\netcoreapp3.1\01helloworld.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\01helloworld\01helloworld\obj\Debug\netcoreapp3.1\01helloworld.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\01helloworld\01helloworld\obj\Debug\netcoreapp3.1\01helloworld.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\01helloworld\01helloworld\obj\Debug\netcoreapp3.1\01helloworld.genruntimeconfig.cache

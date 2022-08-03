@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\RestaurantReservationSystem\RestaurantReservationSystem\bin\Debug\netcoreapp3.1\RestaurantReservationSystem.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\RestaurantReservationSystem\RestaurantReservationSystem\bin\Debug\netcoreapp3.1\RestaurantReservationSystem.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\RestaurantReservationSystem\RestaurantReservationSystem\bin\Debug\netcoreapp3.1\RestaurantReservationSystem.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\RestaurantReservationSystem\RestaurantReservationSystem\bin\Debug\netcoreapp3.1\RestaurantReservationSystem.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\RestaurantReservationSystem\RestaurantReservationSystem\bin\Debug\netcoreapp3.1\RestaurantReservationSystem.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\RestaurantReservationSystem\RestaurantReservationSystem\bin\Debug\netcoreapp3.1\RestaurantReservationSystem.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\RestaurantReservationSystem\RestaurantReservationSystem\obj\Debug\netcoreapp3.1\RestaurantReservationSystem.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\RestaurantReservationSystem\RestaurantReservationSystem\obj\Debug\netcoreapp3.1\RestaurantReservationSystem.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\RestaurantReservationSystem\RestaurantReservationSystem\obj\Debug\netcoreapp3.1\RestaurantReservationSystem.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\RestaurantReservationSystem\RestaurantReservationSystem\obj\Debug\netcoreapp3.1\RestaurantReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\RestaurantReservationSystem\RestaurantReservationSystem\obj\Debug\netcoreapp3.1\RestaurantReservationSystem.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\RestaurantReservationSystem\RestaurantReservationSystem\obj\Debug\netcoreapp3.1\RestaurantReservationSystem.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\RestaurantReservationSystem\RestaurantReservationSystem\obj\Debug\netcoreapp3.1\RestaurantReservationSystem.genruntimeconfig.cache

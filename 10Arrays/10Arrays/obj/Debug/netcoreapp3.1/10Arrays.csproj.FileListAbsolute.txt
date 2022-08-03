@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\10Arrays\10Arrays\obj\Debug\netcoreapp3.1\10Arrays.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\10Arrays\10Arrays\obj\Debug\netcoreapp3.1\10Arrays.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\10Arrays\10Arrays\obj\Debug\netcoreapp3.1\10Arrays.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\10Arrays\10Arrays\obj\Debug\netcoreapp3.1\10Arrays.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\10Arrays\10Arrays\bin\Debug\netcoreapp3.1\10Arrays.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\10Arrays\10Arrays\bin\Debug\netcoreapp3.1\10Arrays.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\10Arrays\10Arrays\bin\Debug\netcoreapp3.1\10Arrays.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\10Arrays\10Arrays\bin\Debug\netcoreapp3.1\10Arrays.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\10Arrays\10Arrays\bin\Debug\netcoreapp3.1\10Arrays.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\10Arrays\10Arrays\bin\Debug\netcoreapp3.1\10Arrays.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\10Arrays\10Arrays\obj\Debug\netcoreapp3.1\10Arrays.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\10Arrays\10Arrays\obj\Debug\netcoreapp3.1\10Arrays.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\10Arrays\10Arrays\obj\Debug\netcoreapp3.1\10Arrays.genruntimeconfig.cache

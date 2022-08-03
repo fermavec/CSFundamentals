@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\05Strings\05Strings\bin\Debug\netcoreapp3.1\05Strings.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\05Strings\05Strings\bin\Debug\netcoreapp3.1\05Strings.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\05Strings\05Strings\bin\Debug\netcoreapp3.1\05Strings.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\05Strings\05Strings\bin\Debug\netcoreapp3.1\05Strings.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\05Strings\05Strings\bin\Debug\netcoreapp3.1\05Strings.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\05Strings\05Strings\bin\Debug\netcoreapp3.1\05Strings.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\05Strings\05Strings\obj\Debug\netcoreapp3.1\05Strings.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\05Strings\05Strings\obj\Debug\netcoreapp3.1\05Strings.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\05Strings\05Strings\obj\Debug\netcoreapp3.1\05Strings.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\05Strings\05Strings\obj\Debug\netcoreapp3.1\05Strings.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\05Strings\05Strings\obj\Debug\netcoreapp3.1\05Strings.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\05Strings\05Strings\obj\Debug\netcoreapp3.1\05Strings.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\05Strings\05Strings\obj\Debug\netcoreapp3.1\05Strings.genruntimeconfig.cache

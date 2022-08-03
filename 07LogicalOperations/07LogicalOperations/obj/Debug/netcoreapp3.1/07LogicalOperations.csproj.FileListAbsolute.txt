@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\07LogicalOperations\07LogicalOperations\bin\Debug\netcoreapp3.1\07LogicalOperations.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\07LogicalOperations\07LogicalOperations\bin\Debug\netcoreapp3.1\07LogicalOperations.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\07LogicalOperations\07LogicalOperations\bin\Debug\netcoreapp3.1\07LogicalOperations.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\07LogicalOperations\07LogicalOperations\bin\Debug\netcoreapp3.1\07LogicalOperations.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\07LogicalOperations\07LogicalOperations\bin\Debug\netcoreapp3.1\07LogicalOperations.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\07LogicalOperations\07LogicalOperations\bin\Debug\netcoreapp3.1\07LogicalOperations.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\07LogicalOperations\07LogicalOperations\obj\Debug\netcoreapp3.1\07LogicalOperations.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\07LogicalOperations\07LogicalOperations\obj\Debug\netcoreapp3.1\07LogicalOperations.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\07LogicalOperations\07LogicalOperations\obj\Debug\netcoreapp3.1\07LogicalOperations.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\07LogicalOperations\07LogicalOperations\obj\Debug\netcoreapp3.1\07LogicalOperations.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\07LogicalOperations\07LogicalOperations\obj\Debug\netcoreapp3.1\07LogicalOperations.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\07LogicalOperations\07LogicalOperations\obj\Debug\netcoreapp3.1\07LogicalOperations.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\07LogicalOperations\07LogicalOperations\obj\Debug\netcoreapp3.1\07LogicalOperations.genruntimeconfig.cache

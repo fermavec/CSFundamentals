@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\13IfStatement\13IfStatement\bin\Debug\netcoreapp3.1\13IfStatement.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\13IfStatement\13IfStatement\bin\Debug\netcoreapp3.1\13IfStatement.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\13IfStatement\13IfStatement\bin\Debug\netcoreapp3.1\13IfStatement.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\13IfStatement\13IfStatement\bin\Debug\netcoreapp3.1\13IfStatement.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\13IfStatement\13IfStatement\bin\Debug\netcoreapp3.1\13IfStatement.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\13IfStatement\13IfStatement\bin\Debug\netcoreapp3.1\13IfStatement.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\13IfStatement\13IfStatement\obj\Debug\netcoreapp3.1\13IfStatement.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\13IfStatement\13IfStatement\obj\Debug\netcoreapp3.1\13IfStatement.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\13IfStatement\13IfStatement\obj\Debug\netcoreapp3.1\13IfStatement.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\13IfStatement\13IfStatement\obj\Debug\netcoreapp3.1\13IfStatement.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\13IfStatement\13IfStatement\obj\Debug\netcoreapp3.1\13IfStatement.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\13IfStatement\13IfStatement\obj\Debug\netcoreapp3.1\13IfStatement.genruntimeconfig.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\13IfStatement\13IfStatement\obj\Debug\netcoreapp3.1\13IfStatement.csprojAssemblyReference.cache

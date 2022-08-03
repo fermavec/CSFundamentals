@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\MyMethods\MyMethods\bin\Debug\netcoreapp3.1\MyMethods.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\MyMethods\MyMethods\bin\Debug\netcoreapp3.1\MyMethods.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\MyMethods\MyMethods\bin\Debug\netcoreapp3.1\MyMethods.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\MyMethods\MyMethods\bin\Debug\netcoreapp3.1\MyMethods.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\MyMethods\MyMethods\bin\Debug\netcoreapp3.1\MyMethods.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\MyMethods\MyMethods\bin\Debug\netcoreapp3.1\MyMethods.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\MyMethods\MyMethods\obj\Debug\netcoreapp3.1\MyMethods.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\MyMethods\MyMethods\obj\Debug\netcoreapp3.1\MyMethods.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\MyMethods\MyMethods\obj\Debug\netcoreapp3.1\MyMethods.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\MyMethods\MyMethods\obj\Debug\netcoreapp3.1\MyMethods.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\MyMethods\MyMethods\obj\Debug\netcoreapp3.1\MyMethods.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\MyMethods\MyMethods\obj\Debug\netcoreapp3.1\MyMethods.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\MyMethods\MyMethods\obj\Debug\netcoreapp3.1\MyMethods.genruntimeconfig.cache

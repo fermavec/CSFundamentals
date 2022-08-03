@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\16WhileCicle\16WhileCicle\bin\Debug\netcoreapp3.1\16WhileCicle.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\16WhileCicle\16WhileCicle\bin\Debug\netcoreapp3.1\16WhileCicle.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\16WhileCicle\16WhileCicle\bin\Debug\netcoreapp3.1\16WhileCicle.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\16WhileCicle\16WhileCicle\bin\Debug\netcoreapp3.1\16WhileCicle.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\16WhileCicle\16WhileCicle\bin\Debug\netcoreapp3.1\16WhileCicle.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\16WhileCicle\16WhileCicle\bin\Debug\netcoreapp3.1\16WhileCicle.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\16WhileCicle\16WhileCicle\obj\Debug\netcoreapp3.1\16WhileCicle.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\16WhileCicle\16WhileCicle\obj\Debug\netcoreapp3.1\16WhileCicle.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\16WhileCicle\16WhileCicle\obj\Debug\netcoreapp3.1\16WhileCicle.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\16WhileCicle\16WhileCicle\obj\Debug\netcoreapp3.1\16WhileCicle.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\16WhileCicle\16WhileCicle\obj\Debug\netcoreapp3.1\16WhileCicle.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\16WhileCicle\16WhileCicle\obj\Debug\netcoreapp3.1\16WhileCicle.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\16WhileCicle\16WhileCicle\obj\Debug\netcoreapp3.1\16WhileCicle.genruntimeconfig.cache

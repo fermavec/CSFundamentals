@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\14SwitchCicle\14SwitchCicle\bin\Debug\netcoreapp3.1\14SwitchCicle.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\14SwitchCicle\14SwitchCicle\bin\Debug\netcoreapp3.1\14SwitchCicle.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\14SwitchCicle\14SwitchCicle\bin\Debug\netcoreapp3.1\14SwitchCicle.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\14SwitchCicle\14SwitchCicle\bin\Debug\netcoreapp3.1\14SwitchCicle.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\14SwitchCicle\14SwitchCicle\bin\Debug\netcoreapp3.1\14SwitchCicle.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\14SwitchCicle\14SwitchCicle\bin\Debug\netcoreapp3.1\14SwitchCicle.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\14SwitchCicle\14SwitchCicle\obj\Debug\netcoreapp3.1\14SwitchCicle.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\14SwitchCicle\14SwitchCicle\obj\Debug\netcoreapp3.1\14SwitchCicle.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\14SwitchCicle\14SwitchCicle\obj\Debug\netcoreapp3.1\14SwitchCicle.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\14SwitchCicle\14SwitchCicle\obj\Debug\netcoreapp3.1\14SwitchCicle.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\14SwitchCicle\14SwitchCicle\obj\Debug\netcoreapp3.1\14SwitchCicle.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\14SwitchCicle\14SwitchCicle\obj\Debug\netcoreapp3.1\14SwitchCicle.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\14SwitchCicle\14SwitchCicle\obj\Debug\netcoreapp3.1\14SwitchCicle.genruntimeconfig.cache

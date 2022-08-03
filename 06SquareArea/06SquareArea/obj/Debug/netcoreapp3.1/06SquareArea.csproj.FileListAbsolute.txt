@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\06SquareArea\06SquareArea\bin\Debug\netcoreapp3.1\06SquareArea.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\06SquareArea\06SquareArea\bin\Debug\netcoreapp3.1\06SquareArea.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\06SquareArea\06SquareArea\bin\Debug\netcoreapp3.1\06SquareArea.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\06SquareArea\06SquareArea\bin\Debug\netcoreapp3.1\06SquareArea.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\06SquareArea\06SquareArea\bin\Debug\netcoreapp3.1\06SquareArea.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\06SquareArea\06SquareArea\bin\Debug\netcoreapp3.1\06SquareArea.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\06SquareArea\06SquareArea\obj\Debug\netcoreapp3.1\06SquareArea.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\06SquareArea\06SquareArea\obj\Debug\netcoreapp3.1\06SquareArea.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\06SquareArea\06SquareArea\obj\Debug\netcoreapp3.1\06SquareArea.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\06SquareArea\06SquareArea\obj\Debug\netcoreapp3.1\06SquareArea.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\06SquareArea\06SquareArea\obj\Debug\netcoreapp3.1\06SquareArea.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\06SquareArea\06SquareArea\obj\Debug\netcoreapp3.1\06SquareArea.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\06SquareArea\06SquareArea\obj\Debug\netcoreapp3.1\06SquareArea.genruntimeconfig.cache

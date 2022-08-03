@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\09ReadDataEntry\09ReadDataEntry\obj\Debug\netcoreapp3.1\09ReadDataEntry.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\09ReadDataEntry\09ReadDataEntry\obj\Debug\netcoreapp3.1\09ReadDataEntry.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\09ReadDataEntry\09ReadDataEntry\obj\Debug\netcoreapp3.1\09ReadDataEntry.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\09ReadDataEntry\09ReadDataEntry\obj\Debug\netcoreapp3.1\09ReadDataEntry.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\09ReadDataEntry\09ReadDataEntry\bin\Debug\netcoreapp3.1\09ReadDataEntry.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\09ReadDataEntry\09ReadDataEntry\bin\Debug\netcoreapp3.1\09ReadDataEntry.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\09ReadDataEntry\09ReadDataEntry\bin\Debug\netcoreapp3.1\09ReadDataEntry.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\09ReadDataEntry\09ReadDataEntry\bin\Debug\netcoreapp3.1\09ReadDataEntry.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\09ReadDataEntry\09ReadDataEntry\bin\Debug\netcoreapp3.1\09ReadDataEntry.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\09ReadDataEntry\09ReadDataEntry\bin\Debug\netcoreapp3.1\09ReadDataEntry.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\09ReadDataEntry\09ReadDataEntry\obj\Debug\netcoreapp3.1\09ReadDataEntry.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\09ReadDataEntry\09ReadDataEntry\obj\Debug\netcoreapp3.1\09ReadDataEntry.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\09ReadDataEntry\09ReadDataEntry\obj\Debug\netcoreapp3.1\09ReadDataEntry.genruntimeconfig.cache

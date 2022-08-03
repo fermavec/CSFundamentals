@@ -1,0 +1,13 @@
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\15ForCicle\15ForCicle\bin\Debug\netcoreapp3.1\15ForCicle.exe
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\15ForCicle\15ForCicle\bin\Debug\netcoreapp3.1\15ForCicle.deps.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\15ForCicle\15ForCicle\bin\Debug\netcoreapp3.1\15ForCicle.runtimeconfig.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\15ForCicle\15ForCicle\bin\Debug\netcoreapp3.1\15ForCicle.runtimeconfig.dev.json
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\15ForCicle\15ForCicle\bin\Debug\netcoreapp3.1\15ForCicle.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\15ForCicle\15ForCicle\bin\Debug\netcoreapp3.1\15ForCicle.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\15ForCicle\15ForCicle\obj\Debug\netcoreapp3.1\15ForCicle.csprojAssemblyReference.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\15ForCicle\15ForCicle\obj\Debug\netcoreapp3.1\15ForCicle.AssemblyInfoInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\15ForCicle\15ForCicle\obj\Debug\netcoreapp3.1\15ForCicle.AssemblyInfo.cs
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\15ForCicle\15ForCicle\obj\Debug\netcoreapp3.1\15ForCicle.csproj.CoreCompileInputs.cache
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\15ForCicle\15ForCicle\obj\Debug\netcoreapp3.1\15ForCicle.dll
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\15ForCicle\15ForCicle\obj\Debug\netcoreapp3.1\15ForCicle.pdb
+C:\Users\fchav\OneDrive\Documentos\Fer Mavec\AR-PlatziCursos\C# Intro\15ForCicle\15ForCicle\obj\Debug\netcoreapp3.1\15ForCicle.genruntimeconfig.cache
